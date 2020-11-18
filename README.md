@@ -2,7 +2,7 @@
 > Woot! I'm having fun!
 
 
-This file will become your README and also the index of your documentation.
+I hope you enjoy this.
 
 ## Install
 
@@ -13,12 +13,12 @@ This file will become your README and also the index of your documentation.
 Fill me in please! Don't forget code examples:
 
 ```python
-1+1
+say_hello('emi')
 ```
 
 
 
 
-    2
+    'Hello emi!'
 
 
